@@ -20,10 +20,13 @@ indica cuanto de descuento se le debe hacer a cada cliente (Frequent o New)
 ## Reto 2 (Gina)
 
 **Patron de diseño**: Creacional
+
 **Patron utilizado**: Builder
+
 **Justificacion**: Porque la hamburguesa tiene partes opcionales, entonces este
 patron nos ayuda a separar los diferentes objetos (ingredientes) que se usaran
 para la construccion de una hamburguesa final.
+
 **Aplicacion**: 
  - Hamburguesa: Producto final
  - HamburguesaBuilder: Interfaz Builder

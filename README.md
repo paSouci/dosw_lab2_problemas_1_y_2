@@ -15,6 +15,16 @@ mas importantes es el tipo del cliente (Customer.type) el cual especifica
 la longevidad del cliente, tambien el metodo abstracto 'getDiscountRate' el cual
 indica cuanto de descuento se le debe hacer a cada cliente (Frequent o New)
 
+**SOLID**:
+- S: Cada clase tiene un solo trabajo
+- O: El codigo esta abierto a extension pero no a modificacion
+- L: ...
+- I: ...
+- D: ShoppingCart depende de Customer, no de clases concretas
+
+**Polimorfismo**:
+Se aplica cuando se quiere tener el descuento de X cliente independientemente de su tipo
+
 ---
 
 ## Reto 2 (Gina)
@@ -32,3 +42,9 @@ para la construccion de una hamburguesa final.
  - HamburguesaBuilder: Interfaz Builder
  - Chef: Director
  - HamburguesaPersonalizadaBuilder: Builder concreto
+
+## Nota
+
+Se hicieron commits a la rama `main` debido a que se nos olvido o quisimos hacer pequenas modificaciones
+al README, pero en si no se cambio nada del codigo, para el codigo creamos cada uno una rama aparte y cuando
+vimos que funcionaba hicimos merge con `main`

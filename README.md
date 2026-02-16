@@ -29,6 +29,7 @@ Se aplica cuando se quiere tener el descuento de X cliente independientemente de
 ---
 
 ## Reto 2 (Gina)
+<img width="887" height="630" alt="image" src="https://github.com/user-attachments/assets/250f37d3-ba06-49c7-b18f-d7f656bf5624" />
 
 **Patron de diseño**: Creacional
 

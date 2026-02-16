@@ -5,6 +5,7 @@
 - Juan Diego Patino Munoz
 
 ## Reto 1
+<img width="991" height="955" alt="reto1sol" src="https://github.com/user-attachments/assets/d9f0c7ea-8d77-425e-a866-7c8649f834bf" />
 
 **problema**: El problema consiste en crear un sistema para una tienda el cual genera un recibo, dependiendo los objetos
 comprados y el usuario (longevidad) el recibo sera mas barato o mas caro.
